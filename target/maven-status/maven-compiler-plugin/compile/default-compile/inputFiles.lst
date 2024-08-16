@@ -1,0 +1,7 @@
+D:\java Projects\SpringCloud\university-monolithic-app\address-service\src\main\java\com\sohaib\app\AddressServiceApplication.java
+D:\java Projects\SpringCloud\university-monolithic-app\address-service\src\main\java\com\sohaib\app\controller\AddressController.java
+D:\java Projects\SpringCloud\university-monolithic-app\address-service\src\main\java\com\sohaib\app\entity\Address.java
+D:\java Projects\SpringCloud\university-monolithic-app\address-service\src\main\java\com\sohaib\app\repository\AddressRepository.java
+D:\java Projects\SpringCloud\university-monolithic-app\address-service\src\main\java\com\sohaib\app\request\CreateAddressRequest.java
+D:\java Projects\SpringCloud\university-monolithic-app\address-service\src\main\java\com\sohaib\app\response\AddressResponse.java
+D:\java Projects\SpringCloud\university-monolithic-app\address-service\src\main\java\com\sohaib\app\service\AddressService.java

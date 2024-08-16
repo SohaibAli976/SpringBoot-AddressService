@@ -1,0 +1,7 @@
+com\sohaib\app\request\CreateAddressRequest.class
+com\sohaib\app\AddressServiceApplication.class
+com\sohaib\app\service\AddressService.class
+com\sohaib\app\response\AddressResponse.class
+com\sohaib\app\controller\AddressController.class
+com\sohaib\app\entity\Address.class
+com\sohaib\app\repository\AddressRepository.class
